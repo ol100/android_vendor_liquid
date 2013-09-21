@@ -20,6 +20,7 @@ add_lunch_combo liquid_maguro-userdebug
 add_lunch_combo liquid_mako-userdebug
 add_lunch_combo liquid_manta-userdebug
 add_lunch_combo liquid_maserati-userdebug
+add_lunch_combo liquid_mb526-userdebug
 add_lunch_combo liquid_mb886-userdebug
 add_lunch_combo liquid_m7ul-userdebug
 add_lunch_combo liquid_m7att-userdebug
